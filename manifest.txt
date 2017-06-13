@@ -1,0 +1,2 @@
+Class-Path: j2ee.jar
+Main-Class: WirehubCheck
